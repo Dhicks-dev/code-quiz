@@ -1,2 +1,2 @@
 # code-quiz
-A time quiz on Javascript fundamentals
+A timed quiz on Javascript fundamentals
